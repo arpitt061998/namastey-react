@@ -1,0 +1,11 @@
+
+
+#ignore node modules
+./node_modules
+
+#ignore .parcel-cache
+./.parcel-cache
+
+#ignore dist
+./dist
+./ep2/dist
